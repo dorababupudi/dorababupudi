@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorababupudi&label=Profile%20views&color=0e75b6&style=flat" alt="dorababupudi" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning ** **
 
 - 📫 How to reach me **dorababupudi69@gmail.com**
 
