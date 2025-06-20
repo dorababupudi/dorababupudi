@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ☮️Dorababu Pudi🔰</h1>
+<h1 align="center">Hi 👋, I'm ☮Dorababu Pudi</h1>
 <h3 align="center">"Data Science & AI Enthusiast | Exploring Cloud Computing, Salesforce, and ServiceNow | GitHub Repository for My Projects"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorababupudi&label=Profile%20views&color=0e75b6&style=flat" alt="dorababupudi" /> </p>
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **dorababupudi69@gmail.com**
 
-- ⚡ Fun fact **I think I am Psycho**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
